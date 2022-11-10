@@ -1,0 +1,20 @@
+---
+sidebar: sidebar 
+permalink: default-branch-rename.html 
+keywords: announcements, branches, github, main, master 
+summary: Nous avons renommé la succursale par défaut de master à main pour tous les référentiels de documentation technique NetApp de GitHub. Ce changement fait partie de nos efforts continus visant à supprimer le langage non inclusif dans notre documentation technique. 
+last_modified: 05-Mar-2021 
+---
+= Branche par défaut renommée "main"
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Nous avons renommé la succursale par défaut de master to main pour tous les référentiels de documentation technique NetApp dans https://github.com/NetAppDocs/["GitHub"^]. Ce changement fait partie de nos efforts continus visant à supprimer le langage non inclusif dans notre documentation technique.
+
+image:default-branch-rename.png[""]

@@ -1,0 +1,32 @@
+---
+sidebar: sidebar 
+permalink: pdfs.html 
+keywords: pdfs, announcement, download pdf, download a pdf 
+summary: Nous avons écouté vos commentaires et ajouté la possibilité de télécharger des PDF depuis nos documents HTML. Cela vous permet de faire suivre notre contenu en déplacement. 
+last_modified: 28-Apr-2020 
+---
+= Télécharger un PDF
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Nous avons écouté vos commentaires et ajouté la possibilité de télécharger des PDF depuis nos documents HTML. Cela vous permet de faire suivre notre contenu en déplacement.
+
+Vous pouvez télécharger un PDF de différentes façons.
+
+La première façon est de télécharger un PDF de la page que vous consultez actuellement.
+
+image:download-pdf-topic.gif["Capture d'écran de l'option Télécharger le PDF de cette rubrique qui apparaît en haut d'une page."]
+
+D'autres options sont disponibles au-dessus de la table des matières à gauche. Cliquez sur *Télécharger PDF* et vous verrez des options pour générer un PDF de l'ensemble du site du document, la section entière (si la section comporte plusieurs pages), ou simplement la page que vous consultez.
+
+image:download-pdf-toc.gif["Capture d'écran de l'option Télécharger PDF qui apparaît au-dessus de la table des matières."]
+
+Nous travaillons encore sur cette fonctionnalité, alors considérez "télécharger un PDF" comme une fonctionnalité BÊTA pour le moment. Il y a quelques problèmes connus, tels que les liens dans le PDF pointant vers les pages HTML.
+
+Avez-vous remarqué le message de date en bas de la page de titre PDF? Nous l'avons mise en place car nous mettons constamment à jour et améliorons notre contenu. Nous vous conseillons donc d'utiliser ces PDF à intervalles courts. Par exemple, ils sont utiles si vous allez en avion ou si vous allez dans un endroit sûr où Internet n'est pas disponible. Vous ne devriez pas vous référer à ce même PDF mois plus tard - il y a de très bonnes chances qu'il soit obsolète. N'oubliez pas de télécharger les contenus les plus récents.

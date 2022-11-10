@@ -1,0 +1,30 @@
+---
+sidebar: sidebar 
+permalink: astra-family.html 
+keywords: astra, netapp, announcements, documentation, cloud, astra control, astra data store 
+summary: 'NetApp a le plaisir d"annoncer la disponibilité de la documentation sur les produits de la gamme Astra,' 
+---
+= Docs pour la famille de produits Astra
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+NetApp a le plaisir d'annoncer la disponibilité de la documentation sur les produits de la gamme Astra, à l'adresse suivante https://docs.netapp.com/us-en/astra-family/index.html["Documentation de la gamme de produits Astra"^].
+
+Sur cette page, vous pouvez définir un filtre pour afficher uniquement la documentation pour les produits que vous souhaitez.
+
+La documentation relative à la gamme de produits Astra est disponible séparément à l'adresse suivante :
+
+* https://docs.netapp.com/us-en/astra-control-service/index.html["Documentation relative au service après-vente Astra Control"^]
+* https://docs.netapp.com/us-en/astra-control-center/index.html["Documentation Astra Control Center"^]
+* https://docs.netapp.com/us-en/astra-data-store/index.html["Documentation Astra Data Store"^]
+* https://docs.netapp.com/us-en/trident/index.html["Documentation Astra Trident"^]
+* https://docs.netapp.com/us-en/astra-automation/["Documentation relative à l'automatisation d'Astra Control"^]
+
+
+image:astra-family-doc.png["Une copie d'écran montrant le site de documentation de la famille de produits Astra sur docs.netapp.com."]

@@ -1,0 +1,56 @@
+---
+sidebar: sidebar 
+permalink: syntax.html 
+keywords: announcements, syntax highlighting 
+summary: 'Nous vous avons facilité l"affichage de la syntaxe pour les langues les plus populaires en ajoutant la mise en évidence.' 
+last_modified: 03-Dec-2018 
+---
+= Mise en surbrillance de la syntaxe
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Nous vous avons facilité l'affichage de la syntaxe pour les langues les plus populaires en ajoutant la mise en évidence.
+
+Syntaxe suivante, par exemple, pour obtenir un jeton utilisateur de NetApp Cloud Central :
+
+[source, http]
+----
+POST https://netapp-cloud-account.auth0.com/oauth/token
+Header: Content-Type: application/json
+Body:
+{
+              "username": "<user_email>",
+              "scope": "profile",
+              "audience": "https://api.cloud.netapp.com",
+              "client_id": "UaVhOIXMWQs5i1WdDxauXe5Mqkb34NJQ",
+              "grant_type": "password",
+              "password": "<user_password>"
+}
+----
+Comme vous pouvez le voir, nous avons également ajouté un bouton Copier pour vous permettre de copier facilement la syntaxe dans votre presse-papiers.
+
+Voici un autre exemple de sortie JSON :
+
+[source, json]
+----
+[
+    {
+        "header": {
+            "requestId": "init",
+            "clientId": "init",
+            "agentId": "init"
+        },
+        "payload": {
+            "init": {}
+        },
+        "id": "5801"
+    }
+]
+----
+Nous espérons que cette amélioration vous sera utile !

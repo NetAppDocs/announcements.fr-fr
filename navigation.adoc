@@ -1,0 +1,22 @@
+---
+sidebar: sidebar 
+permalink: navigation.html 
+keywords: announcements, navigation, on this page 
+summary: La navigation au niveau de la page est désormais incluse dans chaque page contenant plusieurs en-têtes. 
+last_modified: 26-Nov-2018 
+---
+= Navigation au niveau de la page
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+La navigation au niveau de la page est désormais incluse sur chaque page comportant plusieurs sections.
+
+Cette amélioration vous permet de voir facilement où vous vous trouvez au fur et à mesure de votre défilement et de passer à une section spécifique de la page.
+
+image:navigation.gif[""]

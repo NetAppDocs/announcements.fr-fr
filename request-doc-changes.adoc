@@ -1,0 +1,32 @@
+---
+sidebar: sidebar 
+permalink: request-doc-changes.html 
+keywords: announcements, github issues, request doc changes, request changes 
+summary: Si vous souhaitez demander des modifications aux documents et que vous ne souhaitez pas modifier directement le contenu source, vous pouvez maintenant fournir un commentaire en cliquant sur demander des modifications au document. 
+last_modified: 19-Feb-2019 
+---
+= Demander des modifications du document
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Si vous souhaitez demander des modifications aux documents et que vous préférez ne pas modifier le contenu source directement, vous pouvez maintenant fournir un commentaire en cliquant sur *demander des modifications de doc*.
+
+Ce nouveau bouton apparaît en haut de chaque page :
+
+image:request-doc-changes.png[""]
+
+Lorsque vous cliquez sur *Request doc Changes*, vous êtes invité à créer ou à vous connecter à votre compte GitHub (il est gratuit et facile de créer un compte).
+
+Une fois connecté, un formulaire permettant de créer un nouveau problème GitHub s'affiche. La zone de texte contient le titre et l'URL de la page. Ne supprimez pas ces informations--il nous aide à identifier la page où vous avez trouvé le problème.
+
+image:github-issue.png[""]
+
+Indiquez les détails dans la zone de texte, puis cliquez sur *Envoyer un nouveau problème* pour créer un problème pour votre demande.
+
+Nous examinerons vos commentaires et nous les prenons de là.

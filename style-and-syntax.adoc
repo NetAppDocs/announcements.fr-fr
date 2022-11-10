@@ -1,0 +1,36 @@
+---
+sidebar: sidebar 
+permalink: style-and-syntax.html 
+keywords: announcements, style guide, syntax, asciidoc syntax, voice 
+summary: Nous avons mis à jour notre guide des contributeurs pour couvrir le style et la syntaxe de NetApp Docs hébergé sur GitHub. 
+last_modified: 24-Oct-2019 
+---
+= Guide de style et référence de syntaxe
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Nous avons actualisé notre http://docs.netapp.com/contribute/us-en/index.html["Guide du collaborateur"^] Pour couvrir le style et la syntaxe de NetApp Docs stockées dans GitHub.
+
+image:style.gif[""]
+
+Nous avons commencé à stocker quelques-uns de nos contenus dans GitHub pour plusieurs raisons. L'une des principales raisons était de permettre la contribution de notre communauté. Les documents NetApp sont plus efficaces en raison de vos commentaires, tels que les clients, les partenaires et les employés NetApp.
+
+Pour fournir des commentaires, vous pouvez modifier le contenu source stocké dans GitHub :
+
+image:edit.gif[""]
+
+Pour vous aider à soumettre des mises à jour de contenu, nous avons ajouté les éléments suivants à notre http://docs.netapp.com/contribute/us-en/index.html["Guide du collaborateur"^]:
+
+Guide de style des documents NetApp:: Suivez ce guide léger pour comprendre le style de documentation NetApp : conversation et empathie, mais sur le point de le souligner.
+Référence AsciiDoc:: Suivez cette référence pour apprendre la syntaxe d'AsciiDoc, qui est un langage de balisage léger, similaire à Markdown.
+
+
+Nous espérons que ces ressources vous seront utiles et que vous participerez à la documentation NetApp. Si vous préférez ne pas modifier le contenu source directement, vous pouvez quand même envoyer vos commentaires en cliquant sur *demander des modifications de doc*. Nous examinerons vos commentaires et les utiliserons.
+
+Bonne contribution !

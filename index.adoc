@@ -1,0 +1,33 @@
+---
+sidebar: sidebar 
+permalink: index.html 
+---
+= Annonces dans la bibliothèque NetApp Docs
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:keywords: cloud sync, documentation, docs
+
+
+[role="lead"]
+En février 2018, nous avons lancé la documentation GitHub https://docs.netapp.com["docs.netapp.com"^] l'objectif est d'accélérer le contenu tout en favorisant les contributions de la communauté. Nous ajoutons en permanence de nouveaux contenus et ajoutons des améliorations au contenu. Consultez cette page pour en savoir plus sur les dernières modifications.
+
+Voici les dernières annonces :
+
+* link:astra-data-store.html["Docs pour le magasin de données Astra"] (12 décembre 2021)
+* link:astra-family.html["Docs pour la famille de produits Astra"] (11 novembre 2021)
+* link:astra-trident.html["Docs pour Astra Trident"] (09 septembre 2021)
+* link:astra_control_center.html["Docs pour Astra Control Center"] (05 août 2021)
+* link:default-branch-rename.html["Branche par défaut renommée "main""] (05 mars 2021)
+* link:hci-update.html["Mise à jour des documents HCI"] (29 mai 2020)
+* link:pdfs.html["Télécharger un PDF"] (28 avril 2020)
+* link:look-and-feel.html["Amélioration de l'expérience utilisateur"] (17 mars 2020)
+* link:ontap-system-manager.html["Documents pour ONTAP System Manager"] (23 janvier 2020)
+* link:cloud-compliance.html["Docs pour la conformité dans le cloud"] (22 janvier 2020)
+* link:ontap-select.html["Documents pour ONTAP Select"] (22 janvier 2020)
+* link:hci.html["Docs pour les services et solutions clouds NetApp HCI"] (22 novembre 2019)
+* link:style-and-syntax.html["Guide de style et référence de syntaxe"] (24 octobre 2019)
+

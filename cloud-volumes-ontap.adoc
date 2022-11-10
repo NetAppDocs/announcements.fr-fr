@@ -1,0 +1,22 @@
+---
+sidebar: sidebar 
+permalink: cloud-volumes-ontap.html 
+keywords: announcements, documentation, cloud volumes ontap, ontap cloud, cloud ontap 
+summary: 'Les notes de version pour Cloud Volumes ONTAP sont désormais disponibles sur https://docs.netapp.com[].' 
+last_modified: 04-Jun-2018 
+---
+= Documents pour Cloud Volumes ONTAP
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Les notes de version pour Cloud Volumes ONTAP sont désormais disponibles sur https://docs.netapp.com["docs.netapp.com"^].
+
+Cloud Volumes ONTAP associe le contrôle des données aux fonctionnalités de stockage haute performance pour diverses utilisations, notamment les partages de fichiers et le stockage de niveau bloc qui servent les protocoles NAS et SAN (NFS, SMB et iSCSI), la reprise après incident, la sauvegarde et l'archivage. DevOps, bases de données (SQL, Oracle, NoSQL) ou tout autre workload d'entreprise.
+
+Accédez au https://docs.netapp.com/us-en/cloud-volumes-ontap/["Documentation Cloud Volumes ONTAP"^] Pour consulter les notes de version. Si vous avez besoin de documents expliquant comment déployer et gérer Cloud Volumes ONTAP, reportez-vous à la https://docs.netapp.com/us-en/occm/["Documentation de Cloud Manager"^].

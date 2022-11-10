@@ -1,0 +1,38 @@
+---
+sidebar: sidebar 
+permalink: introduction.html 
+keywords: announcements, avatars, github, contributors 
+summary: 'Nous avons le plaisir de vous annoncer le lancement du premier site de documentation GitHub de NetApp : clouddocs.netapp.com—which qui héberge actuellement de la documentation relative à Cloud Manager et Cloud Sync.' 
+last_modified: 02-Feb-2018 
+---
+= Présentation de NetApp Docs dans GitHub
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Nous avons le plaisir de vous annoncer le lancement du premier site de documentation GitHub de NetApp : clouddocs.netapp.com—which qui héberge actuellement de la documentation relative à Cloud Manager et Cloud Sync.
+
+La documentation est écrite dans AsciiDoc (un format léger similaire à Markdown), stockée dans des référentiels GitHub et utilisée comme contenu HTML https://docs.netapp.com["docs.netapp.com"^].
+
+Cette nouvelle expérience de la documentation présente quelques avantages clés :
+
+* Mises à jour rapides du contenu
++
+Nous exploitons des ressources cloud et open source pour accélérer la mise à disposition des produits.
+
+* Contributions communautaires
++
+Nous avons pu raccourcir la distance entre les auteurs et les clients de NetApp en donnant à quiconque la possibilité de recommander des améliorations et modifications à la volée.
+
+* Design réactif
++
+Le site fournit une disposition réactive pour tout périphérique utilisé pour accéder à la documentation NetApp.
+
+
+
+Nous avons l'intention d'améliorer continuellement le site et d'ajouter du contenu supplémentaire au fil du temps. Nous espérons que vous le souhaitez et nous serons ravis de tout commentaire.

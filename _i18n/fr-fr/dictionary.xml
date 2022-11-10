@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="f0fcc16ab49b209290308ac6fa936d99" category="summary">NetApp a le plaisir d'annoncer la disponibilité de la documentation sur les produits Astra Trident.</block>
+  <block id="b2659ea7bd2dc02b176860f71e92c02d" category="doc">Docs pour Astra Trident</block>
+  <block id="f8bf3ad3550f95af891e242fcfff7b8a" category="inline-link">docs.netapp.com</block>
+  <block id="8e957984d6e4a01fc1a87e256d382796" category="paragraph">NetApp a le plaisir d'annoncer la disponibilité de la documentation produit d'Astra Trident sur le site de<block ref="315379460c8d673ec8ed412b286951a4" category="inline-link-rx"></block>.</block>
+  <block id="b890af956381210db22f43bb6ed50a31" category="paragraph">Astra Trident est un orchestrateur de stockage dynamique conforme à la norme CSI qui permet d'utiliser et de gérer les ressources de stockage sur les plateformes de stockage NetApp populaires.</block>
+  <block id="14d9b10c6196045941347a9e85704b50" category="inline-link">Documentation Astra Trident</block>
+  <block id="260a438318a45336bc25b495b2410333" category="inline-link">Présentation d'Astra Trident</block>
+  <block id="42f8643eb52a942747937327c72c8361" category="inline-link">Présentation du déploiement</block>
+  <block id="130d3a2c99344d7ddbdff3c14116e726" category="paragraph"><block ref="483e1d24e3d650accbb97eb1ede403e4" category="inline-link-rx"></block> Il propose des sujets pour vous aider à commencer avec Astra Trident, notamment un<block ref="3c82646c2b0d168946721808a42b105e" category="inline-link-rx"></block> et a<block ref="fef7daa7054cfc5895c4f8480c2569c8" category="inline-link-rx"></block>, Ainsi que des informations sur la mise à niveau d'Astra Trident et bien plus encore, dans un format facile à consulter.</block>
+  <block id="35b46e301702b6fcb16192f9f4cf4533" category="inline-link">Service Astra Control</block>
+  <block id="87081decba56eb52090a814e26495724" category="inline-link">Automatisation du contrôle Astra</block>
+  <block id="9c634046a90a62883b122e76b9afcef2" category="inline-link">Centre de contrôle Astra</block>
+  <block id="69de00b79b32c269763eb6a322ceff1e" category="paragraph">Cette documentation élargit la prise en charge du contenu pour la gamme de produits Astra qui inclut<block ref="a60edd0f49d13d6bb9b2af16b2cbbdd5" category="inline-link-rx"></block>,<block ref="2f06701930d5d1d785905eefbc482f24" category="inline-link-rx"></block>, et<block ref="6653b3fa72bfc9c83d8e5fede6da40f0" category="inline-link-rx"></block>.</block>
+  <block id="41e9974be0689901f5d5b1ac60055273" category="inline-image-macro">Copie d'écran montrant le site de documentation d'Astra Trident sur docs.netapp.com.</block>
+  <block id="32afb2c13dc7c44f051b5e8fdddd25ac" category="paragraph"><block ref="32afb2c13dc7c44f051b5e8fdddd25ac" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="f6c27fd7b4e8b1709f99ae0dac55b543" category="section-title">Vous voulez apporter votre contribution ?</block>
+  <block id="5fc5283f6ec17de5dc3a8219d59951d5" category="paragraph">NetApp apprécie les commentaires relatifs au contenu et encourage les utilisateurs à tirer parti de la fonction « Request doc Changes » disponible sur chaque page de la documentation du produit. La plate-forme de documentation offre également une fonction intégrée de contribution de contenu pour les utilisateurs de GitHub.</block>
+  <block id="752f9ff9f4842abac53d8c0aec2188b0" category="inline-link">Documentation NetApp Astra Trident</block>
+  <block id="5b2ac7349892d38080d27249f9f7275c" category="paragraph">Consultez cette documentation et apportez-la votre contribution. Vous pouvez modifier, demander une modification ou même envoyer un commentaire. Accédez à<block ref="83cd7cbefde0940dfcdd838ab819e938" category="inline-link-rx"></block> pour commencer.</block>
+  <block id="705b9db16ffe253f6dbe6223378c2176" category="summary">Nous vous avons facilité l'affichage de la syntaxe pour les langues les plus populaires en ajoutant la mise en évidence.</block>
+  <block id="b1438fa6c9e31db5034f6307a11fe0fa" category="doc">Mise en surbrillance de la syntaxe</block>
+  <block id="2c6fbc3258a5f85566bcf97c08506130" category="paragraph">Syntaxe suivante, par exemple, pour obtenir un jeton utilisateur de NetApp Cloud Central :</block>
+  <block id="ca8bdf3ba678bd46df596707720379c3" category="paragraph">Comme vous pouvez le voir, nous avons également ajouté un bouton Copier pour vous permettre de copier facilement la syntaxe dans votre presse-papiers.</block>
+  <block id="996711c9b03859e62bd6cab82ba827d1" category="paragraph">Voici un autre exemple de sortie JSON :</block>
+  <block id="e177a21fa6914d742af2e7f0ae7cfb1c" category="paragraph">Nous espérons que cette amélioration vous sera utile !</block>
+  <block id="584cd3a08ba716abaa71859ee4023e37" category="summary">Nous avons le plaisir de vous annoncer que nous avons amélioré l'expérience utilisateur de notre documentation GitHub sur docs.netapp.com. Ces modifications assurent une expérience plus cohérente sur l'ensemble du contenu en ligne NetApp.</block>
+  <block id="1a5143bbde5a332ba63e43fb6f6adb93" category="doc">Amélioration de l'expérience utilisateur</block>
+  <block id="f067aed48d152712839b17f2e943de83" category="paragraph">Nous avons le plaisir de vous annoncer que nous avons amélioré l'expérience utilisateur de notre documentation GitHub sur<block ref="09765d13a2c7e990410fb33027d9cebd" category="inline-link-rx"></block>. Ces modifications assurent une expérience plus cohérente sur l'ensemble du contenu en ligne NetApp.</block>
+  <block id="31bd5ffbed535a9ad92dfd564b8ff05c" category="section-title">Disposition et style</block>
+  <block id="bbcdcf5d47357b33df71fd5d58d48870" category="paragraph">La mise en page et le style des documents ressemblent maintenant plus étroitement à ce que vous trouverez sur netapp.com. Cela inclut la police et la couleur, la disposition de la navigation de gauche et de droite, ainsi que l'en-tête et le pied de page.</block>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-image-macro"></block>
+  <block id="cf9334cd99a89b490ffa44f86462e733" category="paragraph"><block ref="cf9334cd99a89b490ffa44f86462e733" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="6e1229499240644bcf841f10a176bcd6" category="section-title">Chapelure</block>
+  <block id="488c1604476862b77fe053c7bf7b6c5c" category="paragraph">Nous avons ajouté des ressources d'Ariane -, ce qui vous permet de naviguer plus facilement dans la documentation NetApp. Par exemple, vous pouvez cliquer sur *Documentation* pour revenir à docs.netapp.com.</block>
+  <block id="b483cae019f93373053707d21a4caea7" category="paragraph"><block ref="b483cae019f93373053707d21a4caea7" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="57298c3120d668e00ef2b29738832952" category="section-title">Liens de contribution</block>
+  <block id="105cb06c1bb1ca199df198a2ad98f866" category="paragraph">Les liens pour contribuer à notre contenu ont été consolidés au-dessus de la navigation au niveau de la page. Ces liens sont toujours visibles lorsque vous faites défiler le contenu. Donc, si vous trouvez un problème n'importe où sur la page, vous pouvez cliquer sur un bouton pour envoyer directement les modifications ou nous envoyer vos commentaires.</block>
+  <block id="ef1344af1891770b6ba7e34326b207bf" category="paragraph"><block ref="ef1344af1891770b6ba7e34326b207bf" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="780dddb5c0d19186b6d43b2527f34dc1" category="summary">Chaque page de la documentation comprend maintenant les avatars GitHub des personnes qui ont contribué à la page. Cette modification est l'objectif de la communauté NetApp Docs.</block>
+  <block id="d34fd20c27f77dcf17ccc607334738c5" category="doc">Avatars de GitHub pour les contributeurs de contenu</block>
+  <block id="ef98abaa338a36d07c1350b364c8bfee" category="paragraph">Vous verrez l'avatar GitHub pour toute personne ayant apporté une modification au contenu source en créant une demande de collecte. Il peut s'agir d'un client, d'un partenaire NetApp ou d'un employé. Voici un exemple :</block>
+  <block id="c69bb86131e52f76221ffee2cae52cb9" category="paragraph"><block ref="c69bb86131e52f76221ffee2cae52cb9" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="eae8dde81953aaa19bfa5f8d57a7abec" category="paragraph">Que vous soyez un expert ou un novice, soumettez des changements au contenu et vous obtiendrez la notoriété de votre contribution.</block>
+  <block id="6e7df42f97b0cd6ecba29faec584550f" category="paragraph">Notez que les avatars sont assez petits pour ne pas vous submerger par les visages des écrivains NetApp chaque fois que vous examinez les docs Pass :[&amp;#128521;]</block>
+  <block id="46d9aeeb3e6be5318a575af8352534c9" category="summary">La documentation relative à NetApp Active IQ est désormais disponible sur<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>.</block>
+  <block id="b8aad932978a2978b376b7a6897e0390" category="doc">Documents pour NetApp Active IQ</block>
+  <block id="331658451af5c246947672f876cc30ae" category="paragraph">La documentation relative à NetApp Active IQ est désormais disponible sur<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>.</block>
+  <block id="d81ef71405d0d4b4daee2a3423013bbb" category="paragraph">Le moteur d'intelligence NetApp Active IQ est un service cloud qui fournit des analyses prédictives et un support proactif pour optimiser les opérations dans le cloud hybride NetApp.</block>
+  <block id="838806ac97500ec8420a6b2811220c16" category="inline-link">Documentation Active IQ</block>
+  <block id="26340c92a14b94f57f49d510e904a60d" category="paragraph">Accédez au<block ref="df7b0f437c501ac5338884e339501425" category="inline-link-rx"></block> pour découvrir comment démarrer.</block>
+  <block id="591b9879d46f270469204bb1b54cb905" category="paragraph"><block ref="591b9879d46f270469204bb1b54cb905" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="803bd26955836f9634f10ba8af48614f" category="summary">Nous avons écouté vos commentaires et ajouté la possibilité de télécharger des PDF depuis nos documents HTML. Cela vous permet de faire suivre notre contenu en déplacement.</block>
+  <block id="bbb76505e315b9dd1f97ba9cb0022054" category="doc">Télécharger un PDF</block>
+  <block id="7df391c285d7e6c78e86d5a5d8e85dfc" category="paragraph">Vous pouvez télécharger un PDF de différentes façons.</block>
+  <block id="5e96e0c965637e8d0d23689cd0a46cd8" category="paragraph">La première façon est de télécharger un PDF de la page que vous consultez actuellement.</block>
+  <block id="821a5ebb1d51d03da65c0dea068a08f3" category="inline-image-macro">Capture d'écran de l'option Télécharger le PDF de cette rubrique qui apparaît en haut d'une page.</block>
+  <block id="4c5481577310f0287a454a3cc7910d93" category="paragraph"><block ref="4c5481577310f0287a454a3cc7910d93" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="acfa8c54da0a1579d3178a4319523caf" category="paragraph">D'autres options sont disponibles au-dessus de la table des matières à gauche. Cliquez sur *Télécharger PDF* et vous verrez des options pour générer un PDF de l'ensemble du site du document, la section entière (si la section comporte plusieurs pages), ou simplement la page que vous consultez.</block>
+  <block id="0d31ed50fefdac3efe21b5296f6c66fd" category="inline-image-macro">Capture d'écran de l'option Télécharger PDF qui apparaît au-dessus de la table des matières.</block>
+  <block id="404b24c932f447075943208512d66e57" category="paragraph"><block ref="404b24c932f447075943208512d66e57" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="9a70913baf52c93bdadc18f8174f4bde" category="paragraph">Nous travaillons encore sur cette fonctionnalité, alors considérez "télécharger un PDF" comme une fonctionnalité BÊTA pour le moment. Il y a quelques problèmes connus, tels que les liens dans le PDF pointant vers les pages HTML.</block>
+  <block id="0f026a26434684b72316596393024ebd" category="paragraph">Avez-vous remarqué le message de date en bas de la page de titre PDF? Nous l'avons mise en place car nous mettons constamment à jour et améliorons notre contenu. Nous vous conseillons donc d'utiliser ces PDF à intervalles courts. Par exemple, ils sont utiles si vous allez en avion ou si vous allez dans un endroit sûr où Internet n'est pas disponible. Vous ne devriez pas vous référer à ce même PDF mois plus tard - il y a de très bonnes chances qu'il soit obsolète. N'oubliez pas de télécharger les contenus les plus récents.</block>
+  <block id="c2090ebcb81deebf8dfe7bcc3bf5b97e" category="doc">Annonces dans la bibliothèque NetApp Docs</block>
+  <block id="cc1e2e4d06b5279262a7484fd9caf5e8" category="paragraph">En février 2018, nous avons lancé la documentation GitHub<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block> l'objectif est d'accélérer le contenu tout en favorisant les contributions de la communauté. Nous ajoutons en permanence de nouveaux contenus et ajoutons des améliorations au contenu. Consultez cette page pour en savoir plus sur les dernières modifications.</block>
+  <block id="76d676de13da507e21b2b97274f3143d" category="paragraph">Voici les dernières annonces :</block>
+  <block id="df2d39488ab03675c8a9dc9281c24061" category="inline-link-macro">Docs pour le magasin de données Astra</block>
+  <block id="c4fefb6ca24717726d93c2d157040d85" category="list-text"><block ref="88161053bf68ebf3ccb9af70047493c1" category="inline-link-macro-rx"></block> (12 décembre 2021)</block>
+  <block id="37af41fc891e54c79978812ff233c3d8" category="inline-link-macro">Docs pour la famille de produits Astra</block>
+  <block id="32f90be6a0e21853e772122e0def388b" category="list-text"><block ref="20a80c78f416319e0e8d17d7e76a9dbb" category="inline-link-macro-rx"></block> (11 novembre 2021)</block>
+  <block id="a6c03c83182e8a5c08fda690a810ec34" category="list-text"><block ref="85b751cc6a57837c56016d0c4fe6be5f" category="inline-link-macro-rx"></block> (09 septembre 2021)</block>
+  <block id="7f91881a4e5ca9171020102c29c19f58" category="inline-link-macro">Docs pour Astra Control Center</block>
+  <block id="e0447163b38775c5fca302b98047f8a2" category="list-text"><block ref="849c9fbef6c9fb4320c7cbf044a6864f" category="inline-link-macro-rx"></block> (05 août 2021)</block>
+  <block id="2e4729496d2bbed6bff0232599f76326" category="inline-link-macro">Branche par défaut renommée "main"</block>
+  <block id="d1562fb6b39b6bdf3504b3a6ccfef304" category="list-text"><block ref="e5f966226f45758ecad5359af5797bd3" category="inline-link-macro-rx"></block> (05 mars 2021)</block>
+  <block id="b629fc52d1588569a2f633d0a7e6adc9" category="inline-link-macro">Mise à jour des documents HCI</block>
+  <block id="cd366322ff81f4650796a83a5cfb317f" category="list-text"><block ref="734da8f95796052311327721f0c6b1ce" category="inline-link-macro-rx"></block> (29 mai 2020)</block>
+  <block id="a1622d0a07d6f6b9a8e538aada0593dd" category="list-text"><block ref="39b5be9799c0610a32f935e5d1141695" category="inline-link-macro-rx"></block> (28 avril 2020)</block>
+  <block id="6dfa38e97fe16150c4ca6689c6d3a881" category="list-text"><block ref="fcd05649c33944b070e8a09a7085bc92" category="inline-link-macro-rx"></block> (17 mars 2020)</block>
+  <block id="ac4fe0f8f82391e062ef9b8420631194" category="inline-link-macro">Documents pour ONTAP System Manager</block>
+  <block id="f2c46dc66240138596000a911fc329dc" category="list-text"><block ref="98eb39d84bcd9d653ee2d5119e96969a" category="inline-link-macro-rx"></block> (23 janvier 2020)</block>
+  <block id="ab4385c6ca35951b4efd0c2871095944" category="inline-link-macro">Docs pour la conformité dans le cloud</block>
+  <block id="022fd1890be2f8ba7b5bfc8d526e1e35" category="list-text"><block ref="4746811d90ba44b4592b64974c6ec5db" category="inline-link-macro-rx"></block> (22 janvier 2020)</block>
+  <block id="bb3dde2aa0cf6fd38af6d0f43b2a1619" category="inline-link-macro">Documents pour ONTAP Select</block>
+  <block id="de30ff0f7799bed8eaaffc3aa67c5f68" category="list-text"><block ref="63b2dfcd546a008996cc1a93eb83b957" category="inline-link-macro-rx"></block> (22 janvier 2020)</block>
+  <block id="833e732ee0444267bc1da174548ba78a" category="inline-link-macro">Docs pour les services et solutions clouds NetApp HCI</block>
+  <block id="273139a524e7ad006693d5672eb1fc67" category="list-text"><block ref="db7f04ef74afc79fc47f0b23f0640d8f" category="inline-link-macro-rx"></block> (22 novembre 2019)</block>
+  <block id="88dee452ae0859a30045db56c941e7a0" category="inline-link-macro">Guide de style et référence de syntaxe</block>
+  <block id="abec09ebabb20833adcb20f5e75b9a70" category="list-text"><block ref="22c0178ce857453e48ff3794fa4dfd93" category="inline-link-macro-rx"></block> (24 octobre 2019)</block>
+  <block id="e29784e3d5c940145771b8ec1f0d2361" category="summary">La documentation relative au nouveau service NetApp Cloud Tiering est désormais disponible sur le site<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>.</block>
+  <block id="a23936500ee528b456b34733d186d6a2" category="doc">Docs pour la hiérarchisation du cloud</block>
+  <block id="92e80b6c1b180e7fecd04cd78e3a8237" category="paragraph">La documentation relative au nouveau service NetApp Cloud Tiering est désormais disponible sur le site<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>.</block>
+  <block id="a75a80ee13edb26298fa1c272d69a5b4" category="paragraph">Le Tiering dans le cloud utilise la technologie FabricPool de NetApp pour identifier les données peu utilisées dans vos clusters ONTAP et les transférer automatiquement et de manière transparente vers un stockage en mode objet à faible coût dans le cloud.</block>
+  <block id="18b67cdd6c50872fa0de2de9dfd11343" category="inline-link">Documentation de NetApp Cloud Tiering</block>
+  <block id="163d026b849195b6f6272437e6a79209" category="paragraph">Accédez au<block ref="807e3f80ca0c2c5e2529f8974c05a3ad" category="inline-link-rx"></block> pour découvrir comment démarrer.</block>
+  <block id="6c3ecb751bd708b13e900094cf942926" category="paragraph"><block ref="6c3ecb751bd708b13e900094cf942926" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="37a8cfd772c8abc4580a796f3269f47c" category="summary">Nous avons ajouté un bouton RSS à chaque page "Nouveautés" dans les documents afin que vous puissiez recevoir des mises à jour de contenu dans votre lecteur de flux RSS préféré. Ces flux peuvent vous tenir informé des nouvelles fonctionnalités et des améliorations introduites dans les produits et les services NetApp.</block>
+  <block id="5dc86df28e80ea7547427158e7beedf6" category="doc">Flux RSS sur les nouvelles pages</block>
+  <block id="1457e49f8dccec856889afc7198d7b7f" category="inline-link">Service de Tiering cloud</block>
+  <block id="3872ba83279a8e314096c5b922d90428" category="paragraph">Rendez-vous sur la page « Nouveautés » du produit ou du service qui vous intéresse. Voici un exemple pour le<block ref="d4507f8d464d714b843db28c6932e942" category="inline-link-rx"></block>:</block>
+  <block id="6748f7beddaefd31416ca3654ffdf13c" category="paragraph"><block ref="6748f7beddaefd31416ca3654ffdf13c" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="d22d4e22b331006dc0f8853a7bda8e1f" category="paragraph">Selon votre lecteur de flux RSS, copiez l'URL de la page ou cliquez sur *RSS s'abonner* et copiez l'URL du flux. Recherchez l'URL dans votre lecteur et commencez à suivre. Vous devez recevoir des mises à jour de vos flux chaque fois que les pages sont mises à jour.</block>
+  <block id="73d58b632dfae1d33e39c28c1d5ddd1a" category="summary">Des documents pour les services et solutions clouds NetApp HCI sont désormais disponibles.</block>
+  <block id="36317b19455648745096575e2574f10b" category="doc">Documents pour NetApp HCI</block>
+  <block id="9fd220153734575a48bb738a083f5aaf" category="paragraph">Nous avons ajouté des documents pour l'activation de services clouds sur NetApp HCI et pour l'accès au catalogue de solutions NetApp HCI.</block>
+  <block id="cde6f89ae8cc04677a4695632fa9b67f" category="inline-link">Services et solutions cloud NetApp HCI</block>
+  <block id="2bde1a8d8db69aa0dee1f98e01e72346" category="paragraph">Accédez à<block ref="61b1a239d4e5189a8d59d81af4ca9e1e" category="inline-link-rx"></block> Pour découvrir comment vous lancer avec les services clouds sur NetApp HCI et découvrir également comment utiliser les solutions avec NetApp HCI.</block>
+  <block id="9aec5175c3af133ad3547b84d767e6de" category="paragraph">Grâce aux informations sur les services cloud, vous découvrirez comment activer les services cloud à l'aide de NetApp HCI Hybrid Cloud Control, comment créer des clusters et déployer rapidement des applications à l'aide de NetApp Kubernetes Service, et comment créer Cloud volumes sur NetApp HCI à l'aide de NetApp Fabric Orchestrator. Fabric Orchestrator est un plan centralisé de contrôle de la gestion et du stockage des données qui permet de détecter et de gérer vos ressources de stockage et leur état, en tout lieu.</block>
+  <block id="a123afb0a5e473d260a319e6afe8f936" category="inline-image-macro">Documentation sur les services cloud NetApp HCI</block>
+  <block id="1fdfe244ff4d1182c2de92ba8cba2a4b" category="paragraph"><block ref="1fdfe244ff4d1182c2de92ba8cba2a4b" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="38accc9f8c554b6f186652a6a450c0fd" category="paragraph">Nous avons également ajouté le catalogue de solutions NetApp HCI, qui fournit aux clients les informations nécessaires au déploiement et à l'exploitation de clouds privés, prenant en charge un large éventail d'utilisations sur site et hors site. Les solutions NetApp HCI permettent de bénéficier de fonctionnalités à valeur ajoutée dans tous les domaines technologiques : public, privé, hybride et multicloud, notamment le DevOps, l'end-user computing, les applications d'entreprise, l'intelligence artificielle, la protection des données et la gestion de Data Fabric.</block>
+  <block id="aad773c64100f77a8f265003d71729f6" category="inline-image-macro">Catalogue de solutions NetApp HCI</block>
+  <block id="53bb917009114360f67dfe77bf7b5cc1" category="paragraph"><block ref="53bb917009114360f67dfe77bf7b5cc1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="d9ece361cbf81c60c155b885f24690f7" category="summary">Les notes de version pour Cloud Volumes ONTAP sont désormais disponibles sur<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>.</block>
+  <block id="9cde8b250928656ce8678c8ec126aa0e" category="doc">Documents pour Cloud Volumes ONTAP</block>
+  <block id="de3fb31a8be0599075aba4868ba330b5" category="paragraph">Les notes de version pour Cloud Volumes ONTAP sont désormais disponibles sur<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>.</block>
+  <block id="b2aa7f46133e37b27f37944e347ae13a" category="paragraph">Cloud Volumes ONTAP associe le contrôle des données aux fonctionnalités de stockage haute performance pour diverses utilisations, notamment les partages de fichiers et le stockage de niveau bloc qui servent les protocoles NAS et SAN (NFS, SMB et iSCSI), la reprise après incident, la sauvegarde et l'archivage. DevOps, bases de données (SQL, Oracle, NoSQL) ou tout autre workload d'entreprise.</block>
+  <block id="1a523ba4ece9125275b92ebb41e3cf23" category="inline-link">Documentation Cloud Volumes ONTAP</block>
+  <block id="b3a853d57fdef5749cc6f40650ebaac6" category="inline-link">Documentation de Cloud Manager</block>
+  <block id="510cd2b19ca2a93141480c35102e1f8f" category="paragraph">Accédez au<block ref="7bcb7b21b5400d7217e9db9c2b1b4ef7" category="inline-link-rx"></block> Pour consulter les notes de version. Si vous avez besoin de documents expliquant comment déployer et gérer Cloud Volumes ONTAP, reportez-vous à la<block ref="9f7c33b1b6d8fcf4507c738fba5155d5" category="inline-link-rx"></block>.</block>
+  <block id="a8fd82e5e9c6bb55948e04fd6db97539" category="summary">Nous avons ajouté des documents pour un nouveau service NetApp. La documentation de NetApp SaaS Backup pour Salesforce est désormais disponible sur<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>.</block>
+  <block id="128764058687673e348baaa3c18f23a4" category="doc">Docs pour NetApp SaaS Backup pour Salesforce</block>
+  <block id="27b3d50bf4a11ca6040fb6e597f7ff41" category="paragraph">Nous avons ajouté des documents pour un nouveau service NetApp. La documentation de NetApp SaaS Backup pour Salesforce est désormais disponible sur<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>.</block>
+  <block id="d031155e704c9f3172521b5694dcd795" category="paragraph">NetApp SaaS Backup est un service cloud sécurisé qui sauvegarde vos données Salesforce dans un stockage Amazon S3. NetApp SaaS Backup protège vos données des menaces et des suppressions accidentelles.</block>
+  <block id="62a1bf19d63cf8abd2a45f03805b1a3a" category="inline-link">Documentation NetApp SaaS Backup pour Salesforce</block>
+  <block id="fbcea8f4dc514cb9ce5836b06a6d4eeb" category="paragraph">Accédez au<block ref="a4e64802703d44f75fce5d890692ece4" category="inline-link-rx"></block> pour découvrir comment démarrer.</block>
+  <block id="de39e287c52b06825de260bae8849241" category="paragraph"><block ref="de39e287c52b06825de260bae8849241" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="61979eb9db3f70d394e48b62f4ad0066" category="summary">Avec NetApp HCI 1.8, nous avons le plaisir de vous annoncer que nous avons beaucoup plus d'informations sur NetApp HCI en docs.netapp.com.</block>
+  <block id="09d3cdfa12532557da8f388da94bb9dc" category="doc">Mise à jour du document pour NetApp HCI</block>
+  <block id="3ac61f5bf03fee02a7ddc42d3ea4781b" category="paragraph">Pour cette mise à jour, vous trouverez ces nouveaux sujets :</block>
+  <block id="606a51c60a9c4da8c6957f2168b65638" category="list-text">Une section de notes de version qui rassemble les nouvelles notes de version pour NetApp HCI, le logiciel NetApp Element, les services de gestion et le plug-in NetApp Element pour vCenter Server</block>
+  <block id="d68a4bb73faabdd47991f68fc53d5c87" category="list-text">Nouvelle présentation de l'installation et du déploiement</block>
+  <block id="3faaf4e0bd5f23a3b3706084a4d854e0" category="list-text">Plus de procédures liées à l’extension et à la surveillance de votre système</block>
+  <block id="3bdbd3cae79b223b93743379b90c491c" category="list-text">Cette section décrit les concepts de base, tels que les clusters et les nœuds, et explique les niveaux de qualité de service que vous pouvez définir pour gérer les performances</block>
+  <block id="cc2b34920ded911cf771871876c49b69" category="list-text">Un emplacement centralisé pour la mise à niveau de NetApp HCI de bout en bout, y compris la mise à jour des services de gestion, des outils de santé, du logiciel Element et du plug-in Element pour vCenter Server</block>
+  <block id="a097e3c464424bd17a692aab63c4ca1c" category="inline-link">Documentation NetApp HCI</block>
+  <block id="9d50d0dc54845ab1bf1003ff0efd319d" category="paragraph">Consultez la documentation relative à NetApp HCI et apportez-la votre contribution. Vous pouvez modifier, demander une modification ou même envoyer un commentaire. Accédez à<block ref="6f1ab4c6ddf47e4328cf379fafe3b17d" category="inline-link-rx"></block> pour commencer.</block>
+  <block id="977d060fa712ca5cada2a4970afaa133" category="inline-image-macro">Copie d'écran présente le site de documentation HCI sur docs.netapp.com.</block>
+  <block id="ca35e8cf90586807dac031bf95a384b8" category="paragraph"><block ref="ca35e8cf90586807dac031bf95a384b8" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="c89c5cd70f32a26ff845a27e3bedf342" category="summary">Nous avons ajouté des documents pour un nouveau service NetApp. La documentation relative à NetApp SaaS Backup pour Office 365 est désormais disponible sur<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>.</block>
+  <block id="f99682d5106b8f6376000b302724aaf4" category="doc">Docs pour NetApp SaaS Backup pour Office 365</block>
+  <block id="692681554fa8fd3449c7299b20170009" category="paragraph">Nous avons ajouté des documents pour un nouveau service NetApp. La documentation relative à NetApp SaaS Backup pour Office 365 est désormais disponible sur<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>.</block>
+  <block id="53af803bffa7f24980c4a26f63154396" category="paragraph">NetApp SaaS Backup est une offre SaaS Web sécurisée qui sauvegarde vos données Microsoft Office 365 dans un stockage Amazon S3, Microsoft Azure Blob Storage ou un système de stockage objet StorageGRID Webscale.</block>
+  <block id="0237411d804ba48104d618038a005a16" category="inline-link">Documentation NetApp SaaS Backup pour Office 365</block>
+  <block id="d063e730c1cd393851bdcddd47c6a32c" category="paragraph">Accédez au<block ref="89aa0d274c3077d7640c3c6450ece73b" category="inline-link-rx"></block> pour découvrir comment démarrer.</block>
+  <block id="f850d546548119c76f210ab460b080c6" category="summary">NetApp a le plaisir d'annoncer la disponibilité de la documentation produit d'Astra Control Center.</block>
+  <block id="f38fccfd815a280859dfd15d161865c3" category="paragraph">Cette documentation élargit la prise en charge du contenu pour la gamme de produits Astra, qui comprend le service Astra Control, l'automatisation Astra Control et Astra Trident. Astra Control Center assure la gestion des données compatible avec les applications sur site pour Kubernetes et connecte Kubernetes avec les systèmes ONTAP sur site existants ou nouveaux.</block>
+  <block id="7339a613d4c674913deb90b3b3362fed" category="inline-link">Présentation du centre de contrôle Astra</block>
+  <block id="a87da1b8e8afc29470ac85cf788e125c" category="inline-link">Démarrage rapide pour Astra Control Center</block>
+  <block id="c3c02050d805dbc9ceac219fbb898972" category="paragraph">Le site de documentation d'Astra Control Center propose des sujets qui vous aideront à vous lancer rapidement avec Astra Control Center, y compris un<block ref="a95d2afae8745420ff43aacb977c87ea" category="inline-link-rx"></block> et a<block ref="85d3fc4f1d9c9c8b3625a5fe4a456b0d" category="inline-link-rx"></block>, Ainsi que des informations sur l'utilisation d'Astra Control Center pour la gestion des clusters Kubernetes, des applications, des systèmes back-end de stockage, et plus encore.</block>
+  <block id="025b7e6e5bda835f17fe8cb4f83b500d" category="paragraph">La documentation relative à la gamme de produits Astra est disponible à l'adresse suivante :</block>
+  <block id="3a4b2c66d4bdac6ce0e3340c71a39eda" category="inline-link">Documentation Astra Control Center</block>
+  <block id="ea643bf7aaf130341a17f697a7009368" category="list-text"><block ref="ea643bf7aaf130341a17f697a7009368" category="inline-link-rx"></block></block>
+  <block id="ef22ff17624b3faeed227ce5c717eb5f" category="inline-link">Documentation relative au service après-vente Astra Control</block>
+  <block id="6762180adf48075df77efbf264e982ec" category="list-text"><block ref="6762180adf48075df77efbf264e982ec" category="inline-link-rx"></block></block>
+  <block id="ae62facd357433ca5e68bd73bbc985e8" category="inline-link">Documentation relative à l'automatisation d'Astra Control</block>
+  <block id="6c0842d7964e2eb41e0d803e2ccc4cc2" category="list-text"><block ref="6c0842d7964e2eb41e0d803e2ccc4cc2" category="inline-link-rx"></block></block>
+  <block id="27ad5f18f21813695f06091d7d929c12" category="list-text"><block ref="27ad5f18f21813695f06091d7d929c12" category="inline-link-rx"></block></block>
+  <block id="46fd8823cd0c333029a4f02468f6a048" category="inline-link">Documentation NetApp Astra Control Center</block>
+  <block id="e4d32a80a3a045bb2cb0ccae0bd727ad" category="paragraph">Consultez cette documentation et apportez-la votre contribution. Vous pouvez modifier, demander une modification ou même envoyer un commentaire. Accédez à<block ref="8e3a361e6788a8a4f34c9bb6c9d6b3ec" category="inline-link-rx"></block> pour commencer.</block>
+  <block id="39a11e28c8c10ce011a58d0519e841ad" category="inline-image-macro">Une copie d'écran montrant le site de documentation de l'Astra Control Center sur docs.netapp.com.</block>
+  <block id="ac29d6fdc8643e090db3f9c90af1db57" category="paragraph"><block ref="ac29d6fdc8643e090db3f9c90af1db57" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="7a6b9de93f6a0ab11f2acb44f5ea9dcf" category="summary">NetApp a le plaisir d'annoncer la disponibilité de la documentation sur les produits de la gamme Astra,</block>
+  <block id="2d63f74d9b059520b514097de3c8e2f5" category="inline-link">Documentation de la gamme de produits Astra</block>
+  <block id="97d308a1c6bd72fb9d0a536c28e0614c" category="paragraph">NetApp a le plaisir d'annoncer la disponibilité de la documentation sur les produits de la gamme Astra, à l'adresse suivante<block ref="ec342585c0f10bdb58343c5e19d2f78f" category="inline-link-rx"></block>.</block>
+  <block id="29c67482d8f6469f085d3c7e838bcff3" category="paragraph">Sur cette page, vous pouvez définir un filtre pour afficher uniquement la documentation pour les produits que vous souhaitez.</block>
+  <block id="8509a89843a1cc311a72568e21b9f186" category="paragraph">La documentation relative à la gamme de produits Astra est disponible séparément à l'adresse suivante :</block>
+  <block id="8c12e73d5653755d89cc3e42b0fa4b92" category="list-text"><block ref="8c12e73d5653755d89cc3e42b0fa4b92" category="inline-link-rx"></block></block>
+  <block id="be1c3d3113c4023e29e8dd947523c711" category="inline-link">Documentation Astra Data Store</block>
+  <block id="c54241e3258a450b02a723d6d751a4f1" category="list-text"><block ref="c54241e3258a450b02a723d6d751a4f1" category="inline-link-rx"></block></block>
+  <block id="4a2ab62188738135163aaaaeab1d6cfe" category="list-text"><block ref="4a2ab62188738135163aaaaeab1d6cfe" category="inline-link-rx"></block></block>
+  <block id="1f4fecd353e4238c2e06f3ef57ff2e17" category="inline-image-macro">Une copie d'écran montrant le site de documentation de la famille de produits Astra sur docs.netapp.com.</block>
+  <block id="381832760c8906b714e74dd9ad500811" category="paragraph"><block ref="381832760c8906b714e74dd9ad500811" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="53c97bf46bf800b6a33e8ff980b66d42" category="summary">NetApp a le plaisir d'annoncer la disponibilité de la documentation sur les produits Astra Data Store.</block>
+  <block id="a6cbfa04701bd567fe3bf8ce91ea2b7e" category="doc">Docs pour l'aperçu de l'Astra Data Store</block>
+  <block id="f89b313476e569f998bee434dd0dc86a" category="paragraph">NetApp a le plaisir de vous annoncer la disponibilité de la documentation sur les produits Astra Data Store.</block>
+  <block id="20009171a360ffaac6edddffe5a3fc2d" category="paragraph">Astra Data Store offre des services de stockage persistant et de gestion des données pour les applications conteneurisées natives de Kubernetes.</block>
+  <block id="37959e564907b732d47b2d2b7fb246ae" category="inline-link">Présentation du magasin de données Astra</block>
+  <block id="f0b65328b01ef9e6301a81ee7e9ed23f" category="inline-link">Découvrez Astra Data Store</block>
+  <block id="d5065eb03a82c1ae3a1bf0a4ab3d7172" category="paragraph">Le site de documentation Astra Data Store vous donne accès à des sujets qui vous aideront à vous lancer rapidement avec le magasin de données Astra, y compris un<block ref="80de2ad386e9c8f92629f9d9f11704ae" category="inline-link-rx"></block> et a<block ref="4415b524e01228e417a30a741d057489" category="inline-link-rx"></block>.</block>
+  <block id="014828bc1739673f4282e9c1e033c817" category="inline-link">Documentation NetApp Astra Data Store</block>
+  <block id="23a174d0fecd8b79bd5e5f2fd9a4b732" category="paragraph">Consultez cette documentation et apportez-la votre contribution. Vous pouvez modifier, demander une modification ou même envoyer un commentaire. Accédez à<block ref="c1fdd849cd3e68be35f6562f41c2974e" category="inline-link-rx"></block> pour commencer.</block>
+  <block id="156e6378a5fcd89f3957166fe15f0100" category="inline-image-macro">Une copie d'écran montrant le site de documentation de l'Astra Data Store sur docs.netapp.com.</block>
+  <block id="96ded59f7edd6be28a9cc2e4c72e2154" category="paragraph"><block ref="96ded59f7edd6be28a9cc2e4c72e2154" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="5dbdc6054859d79d7c19444a994441fe" category="summary">Si vous souhaitez demander des modifications aux documents et que vous ne souhaitez pas modifier directement le contenu source, vous pouvez maintenant fournir un commentaire en cliquant sur demander des modifications au document.</block>
+  <block id="951885a0dd056fe4b77aec324c26ddc3" category="doc">Demander des modifications du document</block>
+  <block id="e3c0cf211075637a24931ecc16eab2da" category="paragraph">Si vous souhaitez demander des modifications aux documents et que vous préférez ne pas modifier le contenu source directement, vous pouvez maintenant fournir un commentaire en cliquant sur *demander des modifications de doc*.</block>
+  <block id="d9466ff730e0feb26a154ecb639a35e3" category="paragraph">Ce nouveau bouton apparaît en haut de chaque page :</block>
+  <block id="32a073aab0022a640d6931b3112d874d" category="paragraph"><block ref="32a073aab0022a640d6931b3112d874d" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="0db13ffa9ada0395f16f1863f6d002fc" category="paragraph">Lorsque vous cliquez sur *Request doc Changes*, vous êtes invité à créer ou à vous connecter à votre compte GitHub (il est gratuit et facile de créer un compte).</block>
+  <block id="d805b5bfc4c9ba3aaaea66a81087fc42" category="paragraph">Une fois connecté, un formulaire permettant de créer un nouveau problème GitHub s'affiche. La zone de texte contient le titre et l'URL de la page. Ne supprimez pas ces informations--il nous aide à identifier la page où vous avez trouvé le problème.</block>
+  <block id="23ddca3dd72398443586add55c501d4c" category="paragraph"><block ref="23ddca3dd72398443586add55c501d4c" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="3c485ad3c399d7e7463d5becec3dd9d8" category="paragraph">Indiquez les détails dans la zone de texte, puis cliquez sur *Envoyer un nouveau problème* pour créer un problème pour votre demande.</block>
+  <block id="5c63259eb2557499deae26eab465ebcc" category="paragraph">Nous examinerons vos commentaires et nous les prenons de là.</block>
+  <block id="bdfcc723b96e5627c5dd7669de58ce64" category="summary">La documentation relative à Converged Systems Advisor est désormais disponible sur<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>.</block>
+  <block id="cb773a80fe34f37583813b5d6bbf54e7" category="doc">Docs pour Converged Systems Advisor</block>
+  <block id="9cb6bb5e9ff16479c39d0bcf8f913663" category="paragraph">La documentation relative à Converged Systems Advisor est désormais disponible sur<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>.</block>
+  <block id="7a49965d9cfff28dae6c97f9b420a932" category="paragraph">NetApp Converged Systems Advisor valide, surveille et optimise le déploiement de votre infrastructure convergée FlexPod afin d'assurer la performance et la disponibilité optimales pour vos applications métier.</block>
+  <block id="e9b2694df761ec3149dc627f508ad225" category="inline-link">Documentation Converged Systems Advisor</block>
+  <block id="c345c0285df3270d26e03091c3ce0902" category="paragraph">Accédez au<block ref="85d1a394d8d07c1de98158553304dd41" category="inline-link-rx"></block> pour découvrir comment démarrer.</block>
+  <block id="6ef1daab3112a138119ab68a54297214" category="paragraph"><block ref="6ef1daab3112a138119ab68a54297214" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="d4c2619be7bff9d7e1cabee8c8ca76a9" category="summary">Nous avons ajouté des documents pour un nouveau service NetApp. La documentation relative à Cloud Volumes Service pour AWS est désormais disponible sur<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>.</block>
+  <block id="5e2bff150b9b10db5641b203d743226f" category="doc">Docs pour Cloud Volumes Service pour AWS</block>
+  <block id="42b7b123029134ca57803f12fa93b504" category="paragraph">Nous avons ajouté des documents pour un nouveau service NetApp. La documentation relative à Cloud Volumes Service pour AWS est désormais disponible sur<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>.</block>
+  <block id="cffa933a10458e8374fbef2e21507c9d" category="paragraph">NetApp Cloud Volumes Service pour AWS est un service de fichiers cloud natif qui fournit des volumes NAS sur NFS et SMB avec des performances 100 % Flash. Ce service permet l'exécution de tout workload, y compris les applications héritées, dans le cloud AWS.</block>
+  <block id="0f707acb7e2394436734d74b239bd7a4" category="inline-link">Documentation relative à Cloud Volumes Service pour AWS</block>
+  <block id="0d08fd30c4ea287e35a236c1ce0f50a3" category="paragraph">Accédez au<block ref="d214a539d749c7864af274ea2d9c8830" category="inline-link-rx"></block> pour découvrir comment démarrer.</block>
+  <block id="45f90aa9fdda1e160068ad1d4c7e4668" category="summary">Nous avons récemment ajouté du contenu pour ONTAP Select à notre plateforme de création GitHub.</block>
+  <block id="2aaef326b401424ff55fdde68a0ce593" category="paragraph">Nous avons récemment ajouté du contenu pour ONTAP Select. Le contenu peut vous aider avec ONTAP Select exécuté sur VMware ESXi et fournit une documentation indépendante de l'hyperviseur pour l'utilisation de l'API REST de déploiement ONTAP Select.</block>
+  <block id="7f6004388e43ebb6b892401a47be0905" category="paragraph">Cette modification nous a enthousiasmés car l'équipe de création de contenu a combiné du contenu provenant de plusieurs sources dans une seule bibliothèque en ligne consultable.</block>
+  <block id="7436b418bed093768e360d32105591d2" category="inline-link">Documentation ONTAP Select</block>
+  <block id="4e5d48997630055674b3aae770fcd98d" category="paragraph">Découvrez cette nouvelle expérience de la documentation sur ONTAP Select et apportez-la votre contribution. Vous pouvez modifier, demander une modification ou même envoyer un commentaire. Accédez au<block ref="45a93879d4bb7abd51fafccb0f35f591" category="inline-link-rx"></block> pour commencer.</block>
+  <block id="49d9378e00193fa4d854bd382df3826d" category="paragraph"><block ref="49d9378e00193fa4d854bd382df3826d" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="4749b60d80ac603c59d60d492218a4d4" category="summary">La documentation relative au nouveau service NetApp Cloud Insights est désormais disponible sur docs.netapp.com.</block>
+  <block id="e8947ead1bdab019f82cf3b6ff399971" category="doc">Documents pour Cloud Insights</block>
+  <block id="2d4906ecd3e840e50a951925c4d89134" category="paragraph">La documentation relative au nouveau service Cloud Insights de NetApp est désormais disponible sur<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>.</block>
+  <block id="b6569b5a5429e43ea4e566ae989fd3e6" category="paragraph">NetApp Cloud Insights est un outil de surveillance de l'infrastructure cloud qui permet de bénéficier d'une grande visibilité sur l'ensemble de l'infrastructure. Avec Cloud Insights, vous pouvez surveiller toutes les ressources, les optimiser et résoudre les problèmes, y compris dans les clouds publics et dans vos data centers privés.</block>
+  <block id="5858ee4031acd7b896faa2d3d2c1a299" category="inline-link">Documentation Cloud Insights</block>
+  <block id="995ff0c46344da03464527cbcfcbebb1" category="paragraph">Accédez au<block ref="58c5925e5196942f30b30cb2d55d4ec2" category="inline-link-rx"></block> pour découvrir comment démarrer.</block>
+  <block id="8ec744b2290e1d3a33b0ff978e8eaf06" category="summary">La navigation au niveau de la page est désormais incluse dans chaque page contenant plusieurs en-têtes.</block>
+  <block id="027d87552794088159597f2321cfc386" category="doc">Navigation au niveau de la page</block>
+  <block id="d99210b4612e0b4ade2c333c4c2880b7" category="paragraph">La navigation au niveau de la page est désormais incluse sur chaque page comportant plusieurs sections.</block>
+  <block id="cfb96590366980b52c3ed170b3ce4222" category="paragraph">Cette amélioration vous permet de voir facilement où vous vous trouvez au fur et à mesure de votre défilement et de passer à une section spécifique de la page.</block>
+  <block id="58d64b9c7f50e3e860ba31a993332863" category="paragraph"><block ref="58d64b9c7f50e3e860ba31a993332863" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="9dda9c5cdd8115b872f0ef35be3fcdd5" category="summary">ONTAP 9.7 étant généralement disponible, nous avons annoncé que nous avons ajouté du contenu repensé pour ONTAP System Manager à la version docs.netapp.com.</block>
+  <block id="25b7b300a479a551c3d57923603926e8" category="paragraph">Depuis ONTAP 9.7, ONTAP System Manager, totalement repensé, simplifie la gestion d'ONTAP grâce à une interface graphique intuitive. Le nouveau tableau de bord affiche les principaux États et performances du cluster sur un même écran.</block>
+  <block id="0158860f13c021906b67d200c7689058" category="paragraph">La documentation de ONTAP System Manager est également totalement remaniée. Un contenu facile à naviguer est rapide et facile à utiliser. Regardez les vidéos intégrées pour découvrir les principales tâches de gestion.</block>
+  <block id="e8726682a54ea85f2123db66fd54ec79" category="inline-link">Documentation de ONTAP System Manager</block>
+  <block id="7cce11cd1cef1f48e143e578d0a9e9ba" category="paragraph">Accédez au<block ref="3a5e4656d39a4651c31e49e8beb7805d" category="inline-link-rx"></block> pour commencer.</block>
+  <block id="32c1167790191e2571d7b60db822fb75" category="inline-image-macro">Copie d'écran du contenu Cloud Compliance dans la documentation Cloud Manager</block>
+  <block id="7c21f38d01aad6cad1d0f32633893bed" category="paragraph"><block ref="500e4723e9fa4087959db6af3e0c371a" category="inline-image-macro-rx" type="image"></block>.</block>
+  <block id="c3d2f664da493cc1d2eed39d199804b3" category="summary">Juste avant la fin de l'année 2019, nous avons ajouté du contenu pour le service Cloud Compliance dans la documentation de Cloud Manager.</block>
+  <block id="dd817f8b8470692ef67440abe8b9db70" category="paragraph">Juste avant la fin de l'année 2019, nous avons ajouté du contenu dans la documentation de Cloud Manager pour le service Cloud Compliance.</block>
+  <block id="c6527133a9a1d75014c953711e81902d" category="paragraph">Cloud Compliance est un service de confidentialité et de conformité des données pour Cloud Volumes ONTAP dans AWS et Azure. Avec la technologie d'intelligence artificielle (IA), Cloud Compliance aide les entreprises à comprendre le contexte des données et à identifier les données sensibles dans les systèmes Cloud Volumes ONTAP.</block>
+  <block id="4784fe79d9263a540b730e0503eb61b6" category="paragraph">Cloud Compliance est exécuté et géré via Cloud Manager. Vous pouvez accéder aux fonctionnalités Cloud Compliance à partir de l'onglet *Compliance* de Cloud Manager.</block>
+  <block id="0aefd0af975c621b20d1d95f7e5bc455" category="paragraph">Accédez au<block ref="66669ae9fe144d67be852fbb8a9637b7" category="inline-link-rx"></block> pour découvrir comment démarrer.</block>
+  <block id="0a86bd8d14317490dc24f9732292c565" category="paragraph"><block ref="26d34e6669f802b514bbe8a76eba996a" category="inline-image-macro-rx" type="image"></block>.</block>
+  <block id="9a21351cef909121f2a9b6debcfed246" category="summary">Nous avons renommé la succursale par défaut de master à main pour tous les référentiels de documentation technique NetApp de GitHub. Ce changement fait partie de nos efforts continus visant à supprimer le langage non inclusif dans notre documentation technique.</block>
+  <block id="d3b7c913cd04ebfec0e9ec32cb6fd58c" category="inline-link">GitHub</block>
+  <block id="25efe773c4e9de42eb91ab02141aff94" category="paragraph">Nous avons renommé la succursale par défaut de master to main pour tous les référentiels de documentation technique NetApp dans<block ref="71990f224cf870094b63b8dd2aea55d0" category="inline-link-rx"></block>. Ce changement fait partie de nos efforts continus visant à supprimer le langage non inclusif dans notre documentation technique.</block>
+  <block id="ecad71bc237a38b4607e5135538231ee" category="paragraph"><block ref="ecad71bc237a38b4607e5135538231ee" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="40aa38e48fe3025b432fc9c6a94ab755" category="summary">Nous avons le plaisir de vous annoncer le lancement du premier site de documentation GitHub de NetApp : clouddocs.netapp.com—which qui héberge actuellement de la documentation relative à Cloud Manager et Cloud Sync.</block>
+  <block id="4731c959d36b32dd74134e1ed0b99b5a" category="doc">Présentation de NetApp Docs dans GitHub</block>
+  <block id="07e8aa1a0c3839dc4b101b0ce1bb688e" category="paragraph">La documentation est écrite dans AsciiDoc (un format léger similaire à Markdown), stockée dans des référentiels GitHub et utilisée comme contenu HTML<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>.</block>
+  <block id="7efbb7e06719718f77e4c61c1df3ef2c" category="paragraph">Cette nouvelle expérience de la documentation présente quelques avantages clés :</block>
+  <block id="ba24c1c2eed9743b34852d4d56fafb6f" category="list-text">Mises à jour rapides du contenu</block>
+  <block id="d82ec879ebd0f625cde5edcd5f0465e7" category="paragraph">Nous exploitons des ressources cloud et open source pour accélérer la mise à disposition des produits.</block>
+  <block id="ba9cb4c86128c400ab65fb7eca598e2d" category="list-text">Contributions communautaires</block>
+  <block id="c875224f829e6299b37bced748c147d7" category="paragraph">Nous avons pu raccourcir la distance entre les auteurs et les clients de NetApp en donnant à quiconque la possibilité de recommander des améliorations et modifications à la volée.</block>
+  <block id="1ca59b86cbef98a8be3dbcecdbbfeda5" category="list-text">Design réactif</block>
+  <block id="b89f5008d8de8f5c78118ec3b9792b65" category="paragraph">Le site fournit une disposition réactive pour tout périphérique utilisé pour accéder à la documentation NetApp.</block>
+  <block id="714a2e829fbe98dc44280f88e6c37ca0" category="paragraph">Nous avons l'intention d'améliorer continuellement le site et d'ajouter du contenu supplémentaire au fil du temps. Nous espérons que vous le souhaitez et nous serons ravis de tout commentaire.</block>
+  <block id="e24c5b58e2d9896cb97f9c2b3319aba5" category="summary">Nous avons mis à jour notre guide des contributeurs pour couvrir le style et la syntaxe de NetApp Docs hébergé sur GitHub.</block>
+  <block id="e5ae3e8cef11a090cc3acaa905030eca" category="inline-link">Guide du collaborateur</block>
+  <block id="926b60e1a6c51073fbbc63f83d98d4fc" category="paragraph">Nous avons actualisé notre<block ref="db2dc000b9399960efa3586df4e9cb8c" category="inline-link-rx"></block> Pour couvrir le style et la syntaxe de NetApp Docs stockées dans GitHub.</block>
+  <block id="8e1e340c21a62417919b757c373d41dc" category="paragraph"><block ref="8e1e340c21a62417919b757c373d41dc" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="62031e5204e801a849a91204c9d6aa95" category="paragraph">Nous avons commencé à stocker quelques-uns de nos contenus dans GitHub pour plusieurs raisons. L'une des principales raisons était de permettre la contribution de notre communauté. Les documents NetApp sont plus efficaces en raison de vos commentaires, tels que les clients, les partenaires et les employés NetApp.</block>
+  <block id="2fda5e49e611c72a25c5331ceac4b342" category="paragraph">Pour fournir des commentaires, vous pouvez modifier le contenu source stocké dans GitHub :</block>
+  <block id="2076081b3709235f99d2bf1e586bd408" category="paragraph"><block ref="2076081b3709235f99d2bf1e586bd408" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="a7c254e29c6a4c50c012d4dc15595011" category="paragraph">Pour vous aider à soumettre des mises à jour de contenu, nous avons ajouté les éléments suivants à notre<block ref="db2dc000b9399960efa3586df4e9cb8c" category="inline-link-rx"></block>:</block>
+  <block id="88c3dc92387f534cb0d262ec1e8f1bb2" category="list-text">Guide de style des documents NetApp</block>
+  <block id="2ba2bed86469c810fc6b6d899717fec1" category="list-text">Suivez ce guide léger pour comprendre le style de documentation NetApp : conversation et empathie, mais sur le point de le souligner.</block>
+  <block id="de2149b178d59ac3e76c6bf02f61f3c7" category="list-text">Référence AsciiDoc</block>
+  <block id="284ecb4c0849131653777dab0472c4ef" category="list-text">Suivez cette référence pour apprendre la syntaxe d'AsciiDoc, qui est un langage de balisage léger, similaire à Markdown.</block>
+  <block id="86af32105323ac0935a0f85e2aeeb711" category="paragraph">Nous espérons que ces ressources vous seront utiles et que vous participerez à la documentation NetApp. Si vous préférez ne pas modifier le contenu source directement, vous pouvez quand même envoyer vos commentaires en cliquant sur *demander des modifications de doc*. Nous examinerons vos commentaires et les utiliserons.</block>
+  <block id="0962bcdca78ea05e7fbf19a898a97dfe" category="paragraph">Bonne contribution !</block>
+  <block id="9a843f20677a52ca79af903123147af0" category="sidebar">Bienvenue !</block>
+  <block id="05a5cf06982ba7892ed2a6d38fe832d6" category="sidebar">2021</block>
+  <block id="1c7921a67f24b39dedf2b8594ce0a1a9" category="sidebar">Branche par défaut renommée principale</block>
+  <block id="7b7a53e239400a13bd6be6c91c4f6c4e" category="sidebar">2020</block>
+  <block id="bf55b1a83193261961e14a3aec8c15af" category="sidebar">Mise à jour du document NetApp HCI</block>
+  <block id="ea6b2efbdd4255a9f1b3bbc6399b58f4" category="sidebar">2019</block>
+  <block id="6ffca96fa0c1e75da498221f958d9bfb" category="sidebar">Docs pour SaaS Backup pour Salesforce</block>
+  <block id="5b3e65e6745f99101c082b7c5f8aa36e" category="sidebar">Documents pour Active IQ</block>
+  <block id="481c7743539d1dafecedea9c7530b5ab" category="sidebar">Flux RSS sur les nouvelles pages</block>
+  <block id="571c738a85e0b49c979bfeb5bf13a8c4" category="sidebar">Avatars de GitHub pour les contributeurs</block>
+  <block id="84ddfb34126fc3a48ee38d7044e87276" category="sidebar">2018</block>
+  <block id="071ed14a37855c29609308bb1decd55d" category="sidebar">Nouvelle méthode pour demander des modifications au document</block>
+  <block id="9b1c32128378aa74449702a04d7c2acf" category="sidebar">Docs pour SaaS Backup pour Office 365</block>
+  <block id="e148fb94b2111f44240663465c676324" category="sidebar">Présentation des documents NetApp sur GitHub</block>
+</blocks>
